@@ -29,7 +29,7 @@ This dataset contains an excerpt of the balance sheet of used Tesla cars sold da
 	Tesl_used_car_sold
 	Transaction
 	
-##-----Tools-----
+## -----Tools-----
 
 	Visual paradigm Enterprise (Logical Data Model + Physical Data Model).
 	DBeaver (Upload Data).
@@ -43,13 +43,13 @@ This dataset contains an excerpt of the balance sheet of used Tesla cars sold da
 	Jupyter
 	Tableau
 
-##-----Authors-----
+## -----Authors-----
 
 	@DomPizzie
 
-##-----License-----
+## -----License-----
 
 	MIT © Yahya Houti
 
-##-----Acknowledgments-----
+## -----Acknowledgments-----
 	Inspiration, code snippets, etc.
