@@ -2,13 +2,13 @@
 
 ## -----Table of Contents-----
 
-#### 		Project Title
-#### 		Description
-#### 		Tables
-#### 		Tools 
-#### 		Authors
-#### 		License
-#### 		Acknowledgments
+#### 		. Project Title
+#### 		. Description
+#### 		. Tables
+#### 		. Tools 
+#### 		. Authors
+#### 		. License
+#### 		. Acknowledgments
 
 ## -----Project Title-----
 
