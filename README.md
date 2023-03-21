@@ -38,6 +38,8 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
 ###### 		- Amazon Aurora Serverless (Query Data in the console).
 ###### 		- Pycharm Cummunity Edition (Python Boto3) : Connect to the Aurora (serverless) DB instance and run a query.
 ###### 		- Kinesis Data Flows (Firehouse) : Created and move Data by the Python/Boto3 script in S3 bucket.
+###### 		AWS Glue
+###### 		- ![image](https://user-images.githubusercontent.com/112673539/226493042-9f24965e-da5b-443b-a8d9-94357198412e.png) AWS Athena
 ###### 		- AWS Lake Formation
 ###### 		- Redshift
 ###### 		- Jupyter
