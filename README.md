@@ -57,7 +57,7 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
 
 Big thanks to 
 
--@**Southeast Community College** For this rewarding program.
+$${\color{blue}Southeast \space \color{blue}Community \space \color{blue}College}$$
 
 $${\color{blue}Joe \space \color{blue}Cobarrubias \space \color{black}and  \space \color{blue}Jeremy \space \ color{blue}Skog}$$
 
