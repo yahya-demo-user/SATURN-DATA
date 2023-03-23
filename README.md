@@ -54,4 +54,6 @@ This dataset contains an excerpt of the balance sheet of used Tesla cars sold da
 	MIT © Yahya Houti
 
 -----Acknowledgments-----
-	Inspiration, code snippets, etc.
+	Big thanks to 
+	-@**Southeast Community College** For this rewarding program.
+	-@**Joe Cobarrubias** & **@Jeremy Skog** For the deployment of this program and all the assistance and the support which brought us.
