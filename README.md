@@ -6,6 +6,7 @@
  		. Description
  		. Tables
  		. Tools 
+		. Codes
  		. Authors
  		. License
  		. Acknowledgments
@@ -44,6 +45,21 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
 		- Redshift
 		- Jupyter
  		- Tableau
+
+## Codes
+
+Boto3 code in Python to connect to the Aurora (serverless) DB instance, run and show a query results and code in snapshot.
+
+![image](https://user-images.githubusercontent.com/112673539/227347426-c81443c5-ce7d-461c-9a6c-71f03ecc103e.png)
+
+Modify your Python/Boto3 code to connect to the Firehose Delivery Stream / Run code and show result
+
+![image](https://user-images.githubusercontent.com/112673539/227348274-7dfbdc45-2e2d-4925-935b-b3eaaa75689d.png)
+
+ Make a copy of your Python/Boto3 script. In the copy, change the Kinesis connection from Firehose to the new Data Stream.
+
+![image](https://user-images.githubusercontent.com/112673539/227348804-86000699-8498-4b36-a776-0c225627064f.png)
+
 
 ## Authors
 
