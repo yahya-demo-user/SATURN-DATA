@@ -59,6 +59,5 @@ Big thanks to
 
 -@**Southeast Community College** For this rewarding program.
 
--@**$${\color{Joe Cobarrubias}Red}$$** & **@Jeremy Skog** For the deployment of this program and all the assistance and the support which brought us.
+-@**$${\color{blue}Joe \space Cobarrubias}$$** & **@Jeremy Skog** For the deployment of this program and all the assistance and the support which brought us.
 
-$${\color{blue}Joe \space Cobarrubias}$$
