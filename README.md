@@ -62,9 +62,3 @@ Big thanks to
 -@**Joe Cobarrubias** & **@Jeremy Skog** For the deployment of this program and all the assistance and the support which brought us.
 
 $${\color{red}Red}$$
-$${\color{green}Green}$$
-$${\color{lightgreen}Light \space Green}$$
-$${\color{blue}Blue}$$	
-$${\color{lightblue}Light \space Blue}$$
-$${\color{black}Black}$$
-$${\color{white}White}$$
