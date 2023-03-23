@@ -56,5 +56,7 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
 ## Acknowledgments
 
 Big thanks to 
+
 	-@**Southeast Community College** For this rewarding program.
+	
 	-@**Joe Cobarrubias** & **@Jeremy Skog** For the deployment of this program and all the assistance and the support which brought us.
