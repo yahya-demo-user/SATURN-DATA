@@ -17,7 +17,7 @@ SATURN DATA
 ## Description
 
 This project consist of getting **Raw Data** ingested into **S3 Bucket**, analyze and transforme it into a graphic using different tools.
-This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold daily in the United States from tesla.com
+This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold daily in the United States from tesla.com.
 
 
 ## Tables
