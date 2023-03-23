@@ -61,4 +61,4 @@ Big thanks to
 
 -@**$${\color{Joe Cobarrubias}Red}$$** & **@Jeremy Skog** For the deployment of this program and all the assistance and the support which brought us.
 
-$${\color{Joe Cobarrubias}Red}$$
+$${\color{Red}Joe Cobarrubias}$$
