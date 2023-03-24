@@ -7,6 +7,7 @@
  		. Tables
  		. Tools 
 		. Codes
+		. Analytics Diagrame
  		. Authors
  		. License
  		. Acknowledgments
@@ -204,6 +205,9 @@ print(kinesis_response)
 
 ![image](https://user-images.githubusercontent.com/112673539/227348804-86000699-8498-4b36-a776-0c225627064f.png)
 
+## Analytics diagram
+
+![image](https://user-images.githubusercontent.com/112673539/227622192-1d871559-7993-4980-a282-a3bb1030f371.png)
 
 ## Authors
 
