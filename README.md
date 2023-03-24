@@ -44,7 +44,7 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
  		- AWS Lake Formation
 		- Redshift
 		- Jupyter
- 		- Tableau
+ 		- visualizer tool (Tableau)
 
 ## Codes
 
