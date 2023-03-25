@@ -57,7 +57,8 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
 ## Codes
 
 Boto3 code in Python to connect to the Aurora (serverless) DB instance, run and show a query results and code in snapshot.
-[Batch Ingest Code](https://github.com/yahya-demo-user/SATURN-DATA/blob/a5a9f04c89843e7c4f09d7155b686b25cc4b8c33/Codes/batch_ingest.py)
+
+[Download Batch Ingest Code](https://github.com/yahya-demo-user/SATURN-DATA/blob/a5a9f04c89843e7c4f09d7155b686b25cc4b8c33/Codes/batch_ingest.py)
 
 ```
 import boto3
