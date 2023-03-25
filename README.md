@@ -134,6 +134,7 @@ Modify your Python/Boto3 code to connect to the Firehose Delivery Stream / Run c
 ![image](https://user-images.githubusercontent.com/112673539/227348274-7dfbdc45-2e2d-4925-935b-b3eaaa75689d.png)
 
  Make a copy of your Python/Boto3 script. In the copy, change the Kinesis connection from Firehose to the new Data Stream.
+ [Download Stream Ingest Code](https://github.com/yahya-demo-user/SATURN-DATA/blob/d4a96db6ee0216a8f73a247085bf7d4f428aefb4/Codes/stream_ingest.py)
  
  ```python
 import boto3
