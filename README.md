@@ -60,7 +60,7 @@ Boto3 code in Python to connect to the Aurora (serverless) DB instance, run and 
 
 [Download Batch Ingest Code](https://github.com/yahya-demo-user/SATURN-DATA/blob/a5a9f04c89843e7c4f09d7155b686b25cc4b8c33/Codes/batch_ingest.py)
 
-```
+```python
 import boto3
 import json
 from datetime import datetime as dt
