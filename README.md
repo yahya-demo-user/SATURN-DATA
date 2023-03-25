@@ -1,6 +1,6 @@
 ![RealPython](https://user-images.githubusercontent.com/112673539/226464986-6a17242f-1ae0-430d-b920-2c889d13fac6.JPG)
 
-## Table of Contents
+# Table of Contents
 
  		. Project Title
  		. Description
@@ -9,19 +9,19 @@
  		. Tools 
 		. Codes
 		. Analytics Diagrame
+		. Amazon SageMaker / Jupyter Lab
  		. Authors
  		. License
  		. Acknowledgments
 
 ## Project Title
 
-SATURN DATA
+SATURN DATA ([Download](https://aws.amazon.com/marketplace/pp/prodview-y77x3t6zisn4w?sr=0-5&ref_=beagle&applicationId=AWSMPContessa#offers))
 
 ## Description
 
 This project consist of getting **Raw Data** ingested into **S3 Bucket**, analyze and transforme it into a graphic using different tools.
-This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold daily in the United States from tesla.com.
-
+This dataset consists of details on daily Carvana cars sold in United States from Carvana sold daily in 30 different places in the United States with more than 1000 employee.
 
 ## Tables
 
@@ -218,6 +218,13 @@ print(kinesis_response)
 ## Analytics diagram
 
 ![image](https://user-images.githubusercontent.com/112673539/227622192-1d871559-7993-4980-a282-a3bb1030f371.png)
+
+## Amazon SageMaker / Jupyter Lab
+
+[Link to Jupyter Lab File](https://github.com/yahya-demo-user/SATURN-DATA/blob/d1825f1cb5799a4680d59b255527c5e43860a74e/Amazon%20SageMaker%20-%20Jupyter%20Lab%20file/emr-jupyter-conn-to-redshift.ipynb)
+
+![image](https://user-images.githubusercontent.com/112673539/227732617-f11edc99-ab1b-4015-bacb-9dfa65b4d922.png)
+
 
 ## Authors
 
