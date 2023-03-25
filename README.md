@@ -21,8 +21,7 @@ SATURN DATA ([Download](https://aws.amazon.com/marketplace/pp/prodview-y77x3t6zi
 ## Description
 
 This project consist of getting **Raw Data** ingested into **S3 Bucket**, analyze and transforme it into a graphic using different tools.
-This dataset consists of details on daily Carvana cars sold in United States from Carvana sold daily in 30 different places in the United States with .
-
+This dataset consists of details on daily Carvana cars sold in United States from Carvana sold daily in 30 different places in the United States with more than 1000 employee.
 
 ## Tables
 
