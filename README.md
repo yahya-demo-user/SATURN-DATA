@@ -127,7 +127,7 @@ batch_response = firehose.put_record_batch(
 print(batch_response)
 ```
 
-![image](https://user-images.githubusercontent.com/112673539/227347426-c81443c5-ce7d-461c-9a6c-71f03ecc103e.png)
+![image](https://user-images.githubusercontent.com/112673539/227728931-f21cf2a4-5c08-4725-bfac-a90a5da3e845.png)
 
 Modify your Python/Boto3 code to connect to the Firehose Delivery Stream / Run code and show result
 
