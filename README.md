@@ -135,7 +135,7 @@ Modify your Python/Boto3 code to connect to the Firehose Delivery Stream / Run c
 
  Make a copy of your Python/Boto3 script. In the copy, change the Kinesis connection from Firehose to the new Data Stream.
  
- ```
+ ```python
 import boto3
 import json
 from datetime import datetime as dt
