@@ -5,6 +5,7 @@
  		. Project Title
  		. Description
  		. Tables
+		. Data Model
  		. Tools 
 		. Codes
 		. Analytics Diagrame
@@ -30,6 +31,11 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
  		Sales fact table
  		Tesl_used_car_sold
  		Transaction
+		
+## Data Model
+
+	Logical Data Model (Visual paradigm Enterprise)
+	Physical Data Model (Visual paradigm Enterprise)
 	
 ## Tools
 
