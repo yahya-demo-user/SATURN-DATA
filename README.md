@@ -10,6 +10,7 @@
 		. Codes
 		. Analytics Diagrame
 		. Amazon SageMaker / Jupyter Lab
+		. Data analytics Platform
  		. Authors
  		. License
  		. Acknowledgments
@@ -225,6 +226,9 @@ print(kinesis_response)
 
 ![image](https://user-images.githubusercontent.com/112673539/227732617-f11edc99-ab1b-4015-bacb-9dfa65b4d922.png)
 
+## Data analytics Platform
+
+![Data analytics platform](https://user-images.githubusercontent.com/112673539/227735228-54ed4def-6ef8-4f08-9cf5-c589385dd3f9.jpg)
 
 ## Authors
 
