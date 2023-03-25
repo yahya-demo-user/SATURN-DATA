@@ -34,7 +34,7 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
 		
 ## Data Model
 
-	Logical Data Model (Visual paradigm Enterprise)
+	Logical Data Model (Visual paradigm Enterprise) https://github.com/yahya-demo-user/SATURN-DATA/blob/ae3a8dfa0fdd5714a6a9761688e89fd0ea115123/Data%20model/Logical%20Data%20Model.vpp
 	Physical Data Model (Visual paradigm Enterprise)
 	
 ## Tools
