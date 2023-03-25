@@ -9,6 +9,7 @@
  		. Tools 
 		. Codes
 		. Analytics Diagrame
+		. Amazon SageMaker / Jupyter Lab
  		. Authors
  		. License
  		. Acknowledgments
@@ -218,6 +219,10 @@ print(kinesis_response)
 ## Analytics diagram
 
 ![image](https://user-images.githubusercontent.com/112673539/227622192-1d871559-7993-4980-a282-a3bb1030f371.png)
+
+## Amazon SageMaker / Jupyter Lab
+
+[Link to Jupyter Lab File](https://github.com/yahya-demo-user/SATURN-DATA/blob/d1825f1cb5799a4680d59b255527c5e43860a74e/Amazon%20SageMaker%20-%20Jupyter%20Lab%20file/emr-jupyter-conn-to-redshift.ipynb)
 
 ## Authors
 
