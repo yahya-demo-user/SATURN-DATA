@@ -224,6 +224,9 @@ print(kinesis_response)
 
 [Link to Jupyter Lab File](https://github.com/yahya-demo-user/SATURN-DATA/blob/d1825f1cb5799a4680d59b255527c5e43860a74e/Amazon%20SageMaker%20-%20Jupyter%20Lab%20file/emr-jupyter-conn-to-redshift.ipynb)
 
+![image](https://user-images.githubusercontent.com/112673539/227732617-f11edc99-ab1b-4015-bacb-9dfa65b4d922.png)
+
+
 ## Authors
 
 	@Yahya houti
