@@ -61,20 +61,19 @@ from datetime import datetime as dt
 rds_data = boto3.client('rds-data')
 firehose = boto3.client('firehose')
 query = """
-        SELECT *, DATE_PART('year', insert_timestamp) as release_year FROM dbo.now_showing_ingest
+        SELECT * from dbo.facttable;
 """
 query_response = rds_data.execute_statement(
     continueAfterTimeout=False,
     database='rds_stream',
     includeResultMetadata=True,
-    resourceArn='arn:aws:rds:us-east-1:961315800655:cluster:aurora-serverless-cluster',
+    resourceArn='arn:aws:rds:us-east-1:311254437511:cluster:aurora-serverless-cluster',
     sql=query,
-    secretArn='arn:aws:secretsmanager:us-east-1:961315800655:secret:aurora-serverless-secrett-Ce6AjM'
+    secretArn='arn:aws:secretsmanager:us-east-1:311254437511:secret:aurora-serverless-secret-Z9IAS7'
 )
 
 resultset = query_response['records']
-columns = ['theater_id', 'now_showing', 'loc_id', 'nbr_schedules', 'imdb_id', 'title', 'insert_timestamp',
-           'release_year']
+columns = ['StockVin', 'customercustomer_id', 'EmployerEmployer_id', 'transaction_number']
 print(resultset)
 record_batch = []
 json_record_batch = None
@@ -112,7 +111,7 @@ for row in resultset:
 
 print(record_batch)
 batch_response = firehose.put_record_batch(
-    DeliveryStreamName='kinesis-firehose-delivery-stream-demo',
+    DeliveryStreamName='facttable',
     Records=record_batch
 )
 
