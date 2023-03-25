@@ -34,8 +34,9 @@ This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold 
 		
 ## Data Model
 
-	[Logical Data Model](https://github.com/yahya-demo-user/SATURN-DATA/blob/ae3a8dfa0fdd5714a6a9761688e89fd0ea115123/Data%20model/Logical%20Data%20Model.vpp)
-	Physical Data Model (Visual paradigm Enterprise)
+[Logical Data Model](https://github.com/yahya-demo-user/SATURN-DATA/blob/ae3a8dfa0fdd5714a6a9761688e89fd0ea115123/Data%20model/Logical%20Data%20Model.vpp)
+	
+[Physical Data Model](https://github.com/yahya-demo-user/SATURN-DATA/blob/6862f72f5bc8765b26bc58c222f23da3f811f6c9/Data%20model/physical%20Data%20Model.vpp)
 	
 ## Tools
 
