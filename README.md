@@ -16,7 +16,7 @@
 
 ## Project Title
 
-SATURN DATA ([Downloa](https://aws.amazon.com/marketplace/pp/prodview-y77x3t6zisn4w?sr=0-5&ref_=beagle&applicationId=AWSMPContessa#offers))
+SATURN DATA ([Download](https://aws.amazon.com/marketplace/pp/prodview-y77x3t6zisn4w?sr=0-5&ref_=beagle&applicationId=AWSMPContessa#offers))
 
 ## Description
 
