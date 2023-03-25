@@ -21,7 +21,7 @@ SATURN DATA ([Download](https://aws.amazon.com/marketplace/pp/prodview-y77x3t6zi
 ## Description
 
 This project consist of getting **Raw Data** ingested into **S3 Bucket**, analyze and transforme it into a graphic using different tools.
-This dataset contains an excerpt of the balance sheet of used _Tesla cars_ sold daily in the United States from tesla.com.
+This dataset consists of details on daily Carvana cars sold in United States from Carvana sold daily in 30 different places in the United States with .
 
 
 ## Tables
